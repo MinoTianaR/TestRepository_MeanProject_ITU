@@ -5,3 +5,6 @@ Installing Node.js and MongoDB on computer
 
 ##Step 2: 
 Creating new directory for the project and initializing the "package.json"
+
+##Step 3:
+Installing necessary packages: 'express', 'body-parser', 'mongoose'
