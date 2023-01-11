@@ -17,3 +17,6 @@ Starting server
 ##Step 5:
 Creating new directory for the Angular app
 Setting up the necessary files and code for the front-end of the application, using Angular CLI to generate the needed file
+
+##Step 6:
+Connecting server-side code to MongoDB database by creating a connection and models in Node.js using Mongoose
