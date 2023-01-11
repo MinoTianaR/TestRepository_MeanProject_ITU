@@ -20,3 +20,10 @@ Setting up the necessary files and code for the front-end of the application, us
 
 ##Step 6:
 Connecting server-side code to MongoDB database by creating a connection and models in Node.js using Mongoose
+
+##Step 7:
+Creating views using Angular to display data retrieved from MongoDB database
+Creating component and service that interact with the backend, and handle user input and interactions
+
+##Step 8:
+Test ($ node server.js or $ npm start)(http://localhost:3000)
